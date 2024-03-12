@@ -9,7 +9,7 @@ Lab ([DDMAL](https://ddmal.music.mcgill.ca)),
 McGill University.  (note: not manually proofread, so expect some errors).
 
 Original PDF available from several locations:
-* [Sancta missa](http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.html),
+* [Sancta missa](https://www.sanctamissa.org/ligurgical-books),
 * [Archive.org](http://archive.org/details/TheLiberUsualis1961), 
 * or by split by major sections at [IMSLP](https://imslp.org/wiki/Liber_Usualis_(Gregorian_Chant)).
 
