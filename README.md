@@ -9,9 +9,8 @@ Lab ([DDMAL](https://ddmal.music.mcgill.ca)),
 McGill University.  (note: not manually proofread, so expect some errors).
 
 Original PDF available from several locations:
-* [Sancta missa](https://www.sanctamissa.org/ligurgical-books),
-* [Archive.org](http://archive.org/details/TheLiberUsualis1961), 
-* or by split by major sections at [IMSLP](https://imslp.org/wiki/Liber_Usualis_(Gregorian_Chant)).
+* [Sancta missa](https://www.sanctamissa.org/ligurgical-books)
+* [Archive.org](http://archive.org/details/TheLiberUsualis1961)
 
 Data is organized by page number.  See the [Liber usualis preface](liber-usualis-1961-preface.pdf) for an index of the contents by page number.
 
