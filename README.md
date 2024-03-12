@@ -4,7 +4,7 @@
 *Liber usualis* (ed. Benedictine Monastery of Solesmes. Tournai:
 Desclee & Co, 1952. Plate No. 801; reprint 1961), processed with
 automated Optical Music Recognition ([OMR](http://en.wikipedia.org/wiki/Music_OCR)) 
-processing done at the Distributed Digital Music Archive & Libraries 
+done at the Distributed Digital Music Archive & Libraries 
 Lab ([DDMAL](https://ddmal.music.mcgill.ca)), 
 McGill University.  (note: not manually proofread, so expect some errors).
 
